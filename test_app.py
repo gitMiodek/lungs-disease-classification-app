@@ -5,7 +5,7 @@ from img_preprocess import img_transform
 from cnn import model
 import torch
 from PIL import Image
-import requests
+
 
 client = TestClient(app)
 fpath = "./chest_xray/test/NORMAL/IM-0013-0001.jpeg"
