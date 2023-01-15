@@ -30,8 +30,8 @@
 
 ## Create an API:
 
-- [ ] Create an endpoint that accepts an image and classifies it as healthy or not
-- [ ] Preprocess the image before making a prediction
+- [x] Create an endpoint that accepts an image and classifies it as healthy or not
+- [x] Preprocess the image before making a prediction
 - [ ] Use celery workers for asynchronous execution
 - [ ] Use a database to store uploaded images and add them to the training data
 - [ ] Test the API and handle errors
