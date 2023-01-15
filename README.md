@@ -34,7 +34,7 @@
 - [x] Preprocess the image before making a prediction
 - [ ] Use celery workers for asynchronous execution
 - [ ] Use a database to store uploaded images and add them to the training data
-- [ ] Test the API and handle errors
+- [x] Test the API and handle errors
 
 ## Containerization:
 
